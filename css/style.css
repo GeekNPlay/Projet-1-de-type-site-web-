@@ -1,0 +1,26 @@
+body{
+    color: white;
+}
+
+.videoBG{
+	position: fixed; 
+	z-index: -1;
+	top: 0px; 
+	left: 0px; 
+	height: 100%; 
+	width: 100%; 
+	opacity: 1; 
+	overflow: hidden;
+}
+
+div{
+    
+}
+
+.mondiv{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
