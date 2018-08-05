@@ -25,6 +25,8 @@
 		<video poster="" autoplay="autoplay" src="https://mastersnakou.fr/theme/frontend/img/video.webm" loop ></video>
 	</div>
 
-	
-
+<body>
+		<img src= "\Projet\Site\Image\logo" alt class="brand-logo mCS_img_loaded">
+		
+</body>
 </html>
