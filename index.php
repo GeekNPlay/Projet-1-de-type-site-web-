@@ -25,4 +25,6 @@
 		<video poster="" autoplay="autoplay" src="https://mastersnakou.fr/theme/frontend/img/video.webm" loop ></video>
 	</div>
 
+	
+
 </html>
