@@ -26,4 +26,4 @@ Liens Twitch https://www.twitch.tv/mastersnakou/clips https://www.twitch.tv/Mast
 * description ou page d'infos
 * liens réseaux (footer)
 * rajouter live et tchat en petite fenêtre
-
+* Pack Fond d'écran 
