@@ -13,14 +13,13 @@ body{
 	overflow: hidden;
 }
 
-div{
-    
-}
+#logo{
+	position: fixed; 
+	top: 50px; 
+	left: 550px; 
+	height: 100%; 
+	width: 100%; 
+	opacity: 1; 
+	overflow: hidden;
 
-.mondiv{
-    background-color: red;
-}
-
-#green{
-    background-color: green;
 }
