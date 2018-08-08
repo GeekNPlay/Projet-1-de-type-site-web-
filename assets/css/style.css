@@ -1,0 +1,68 @@
+body{
+    color: white;
+}
+
+ul{
+	list-style: none;
+}
+
+h1{
+	color: white;
+	font-family : "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif
+}
+/******
+* Menu
+*******/
+nav li a{
+	color: white;
+}
+
+nav li a:hover{
+	color: yellowgreen;
+}
+
+
+/*****
+* Page principale
+*****/
+.videoBG{
+	position: fixed; 
+	z-index: -1;
+	top: 0px; 
+	left: 0px; 
+	height: 100%; 
+	width: 100%; 
+	opacity: 1; 
+	overflow: hidden;
+}
+
+#logo{
+	position: fixed; 
+	top: 50px; 
+	left: calc(50% - 64px); 
+	height: 100%; 
+	width: 100%; 
+	opacity: 1; 
+	overflow: hidden;
+
+}
+
+
+#ReseauxSociaux li{	
+	display: inline;
+    font-size: 2em;
+	margin: 10px;
+}
+
+.lien{
+	color: white;
+}
+
+.lien :hover {
+	color : red;
+}
+
+footer{
+	position: fixed;
+	bottom: 10px;
+}
